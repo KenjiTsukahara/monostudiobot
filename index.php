@@ -1,2 +1,2 @@
 <?php
-echo "kenji001";
+echo $params["hub.verify_token"];
